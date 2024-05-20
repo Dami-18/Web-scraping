@@ -1,2 +1,2 @@
-# Simple web-scraping in Golang using Gocolly
+Simple web-scraping in Golang using Gocolly
 
